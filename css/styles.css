@@ -1,0 +1,13 @@
+html {
+    background: black url("amber.png") no-repeat right top;
+    background-size: 100vh;
+    color: grey;
+}
+
+.box {
+    border: .15rem solid red;
+    border-radius: 1rem;
+    margin: 1rem;
+    padding: 0rem 0rem 1rem 1rem;
+    width: 25rem;
+}
